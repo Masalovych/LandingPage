@@ -1,0 +1,148 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 776px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding-bottom: 23px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu759
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: -100px;
+}
+
+#u759
+{
+	z-index: 14;
+	width: 1160px;
+	border-color: #000000;
+	position: relative;
+	background: #FFFFFF url("../images/01.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u759_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	padding-top: 191px;
+	padding-bottom: 20px;
+}
+
+#u763-4
+{
+	z-index: 21;
+	display: block;
+	vertical-align: top;
+	left: 477px;
+	position: relative;
+}
+
+#u760-4
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	left: 339px;
+	margin-top: 55px;
+	position: relative;
+}
+
+#u761
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	left: 555px;
+	margin-top: 206px;
+	position: relative;
+}
+
+#buttonu1293
+{
+	z-index: 2;
+	width: 197px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #4C555E;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-khtml-border-radius: 25px;
+	border-radius: 25px;
+	padding-bottom: 8px;
+	margin-left: 479px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#buttonu1293:hover
+{
+	background-color: #4C555E;
+	width: 197px;
+	min-height: 0px;
+	margin: 11px 0px 0px 479px;
+}
+
+#u1295
+{
+	z-index: 4;
+	height: 18px;
+	width: 155px;
+	vertical-align: top;
+	background: url("../images/u1295.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 20px;
+}
+
+#buttonu1293:hover #u1295
+{
+	background: url("../images/u1295-r.png") no-repeat 0px 0px;
+}
+
+#u765-4
+{
+	z-index: 6;
+	margin-right: -10000px;
+	margin-top: 759px;
+	left: 97px;
+}
+
+#u766-4
+{
+	z-index: 10;
+	margin-right: -10000px;
+	margin-top: 759px;
+	left: 492px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -759px;
+}
+
